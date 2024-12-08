@@ -1,0 +1,33 @@
+Blocos:
+
+O que são módulos no Python?
+O que é urllib.request?
+O que é a função urlopen?
+Como chamar a urlopen?
+O que é o get.source?
+Como chamar get.source? 
+Cite exeplos com código de uso do urllib.request?
+Faça um call to action para as minhas redes sociais
+coloque 3 hastags que façam sentido
+
+
+
+
+Comporte-se como um escritor de artigos tech back-end e escreva o artigo atendendo as regras abaixo
+
+{REGRAS}
+>no máximo 5 linhas por bloco de explicação
+>Me explique de maneira informa, como se eu fosse uma criança de 10 anos
+>Os blocos que serão criados estão abaixo
+O que são módulos no Python?
+O que é urllib.request?
+O que é a função urlopen?
+Como chamar a urlopen?
+O que é o get.source?
+Como chamar get.source? 
+Cite exeplos com código de uso do urllib.request?
+Faça um call to action para as minhas redes sociais
+coloque 3 hastags que façam sentido
+
+Ilustrações de capa: gerada por Lexica.Art
+Conteúdo gerado por: ChatGPT e revisões humanas
